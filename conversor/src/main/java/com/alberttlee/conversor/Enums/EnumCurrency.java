@@ -7,7 +7,7 @@ public enum EnumCurrency {
     EURO("Euro (EUR)"),
     LIBRA("British Pound (GBP)"),
     YEN("Japanese Yen (JPY)"),
-    ARS("Argentine Peso (ARS)");
+    WON("Korean Won (KRW)");
 
     private final String name;
 
